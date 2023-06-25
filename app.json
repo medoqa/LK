@@ -17,6 +17,11 @@
         "value": "18046829",
         "required": true
       },
+      "USER_OWNER": {
+        "description": "Your user",
+        "value": "BP_BP",
+        "required": true
+      },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
         "value": "36e53933f738ccb259a73e80a874ee57",
