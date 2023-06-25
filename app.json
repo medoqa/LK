@@ -1,5 +1,5 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "‌𝐿𝐾 ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
     "keywords": [
@@ -14,22 +14,22 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "18046829",
+        "value": "",
         "required": true
       },
       "USER_OWNER": {
         "description": "Your user",
-        "value": "BP_BP",
+        "value": "L_II_Q",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "36e53933f738ccb259a73e80a874ee57",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6189589391:AAGMeq3RSGiLijiYD03rXDU79QAK92bTdy0",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -39,12 +39,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "𝐿𝐾 ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6199134030",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,12 +59,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "abyuziv",
+        "value": "MUSIC",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001896493822",
+        "value": "-",
         "required": true
       }
     },
