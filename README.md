@@ -6,10 +6,6 @@
   <img src="https://graph.org/file/e240c5120f91ed0a9f13f.jpg">
 </p>
 
-<p align="center">
-  <img src="https://graph.org/file/f088f33226badc5154285.jpg">
-</p>
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
