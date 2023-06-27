@@ -77,18 +77,18 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/2e7084fa9ccb215044b8a.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/cf618d77e4823b6eeeead.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/96b3008ec2ebda2c51dfb.mp4",
+    "https://graph.org/file/cf618d77e4823b6eeeead.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://graph.org/file/415779b77a12441637d8e.jpg"
 
-GLOBAL_IMG_URL = "https://graph.org/file/70f4b82a700a481c95951.jpg"
+GLOBAL_IMG_URL = "https://graph.org/file/cf618d77e4823b6eeeead.jpg"
 
-STATS_IMG_URL = "https://graph.org/file/70f4b82a700a481c95951.jpg"
+STATS_IMG_URL = "https://graph.org/file/cf618d77e4823b6eeeead.jpg"
 
 TELEGRAM_AUDIO_URL = "https://graph.org/file/7c2298a2ef86d29ab8589.jpg"
 
