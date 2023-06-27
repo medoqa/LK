@@ -10,7 +10,7 @@ from config import USER_OWNER
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/2e7084fa9ccb215044b8a.jpg",
+        photo=f"https://graph.org/file/cf618d77e4823b6eeeead.jpg",
         caption=f"""
 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐎𝐔𝐑𝐂𝐄 ˛ 𝐋𝐈𝐁𝐘𝐀𝐍 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 .
 
